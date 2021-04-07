@@ -14,5 +14,5 @@ Zip dosyaları için kaba kuvvet saldırısı
 
 > - pip3 install -r requirements.txt
  
-> - python3 zipkirici.py
+> - python3 zipkirici.py zipdosyasiyolu wordlistyolu
 
